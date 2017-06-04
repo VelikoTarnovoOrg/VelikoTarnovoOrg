@@ -1,0 +1,3 @@
+name=Ivan
+size=100
+email=ivan.cheresharov123@gmail.com
